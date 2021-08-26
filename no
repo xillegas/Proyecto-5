@@ -1,0 +1,33 @@
+[33mcommit a89b6b4798bd6012245cca7aa08c448d6a2b98c3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 83c0d82 f78a550
+Author: Alfredo Villegas <xillegas@gmail.com>
+Date:   Wed Aug 25 00:08:20 2021 -0400
+
+    Merge branch 'my_feature' Hemos creado un merge solo para
+    probar, no te pongas bravo git bueno, espero no te enojes no
+    era mi intencion git pides muchas explicaciones crees que por
+    operar en ubuntu eres la gran vaina pero no
+
+[33mcommit f78a550b2c62a2c7baa752d267e89e7325e3fe3b[m
+Author: Alfredo Villegas <xillegas@gmail.com>
+Date:   Tue Aug 24 23:59:13 2021 -0400
+
+    Agregando hoja de estilo css
+
+[33mcommit 83c0d8235da68a0335552f218e2918181f6d99aa[m
+Author: Alfredo Villegas <xillegas@gmail.com>
+Date:   Tue Aug 24 23:52:52 2021 -0400
+
+    Agregando tags h2
+
+[33mcommit 385aeb0c1d7c712043e5b107672f6388a237b524[m
+Author: Alfredo Villegas <xillegas@gmail.com>
+Date:   Tue Aug 24 23:34:22 2021 -0400
+
+    Añadiendo mensaje para los caninos
+
+[33mcommit 998a1d57fa6fcf2bf3693fa8dce248f89cbd561f[m
+Author: Alfredo Villegas <xillegas@gmail.com>
+Date:   Tue Aug 24 23:30:05 2021 -0400
+
+    Creando index y agregando estructura HTML
